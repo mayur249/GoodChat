@@ -165,6 +165,7 @@ body {
   }
 
   .auth__form-container_image {
+    display: none;
     height: 100px;
     flex: none;
     box-shadow: none;
